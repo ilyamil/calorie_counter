@@ -22,3 +22,6 @@ Here is an example:
 3. Put converted model with _.h5_ extention in calorie_counter/bot/model folder.
 4. From command line or IDE run _main.py_ file.
 5. Done! Your bot is working!
+
+## Other resources
+https://github.com/experiencor/keras-yolo3
