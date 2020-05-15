@@ -15,7 +15,8 @@ Here is an example:
 * YOLO detector is not very accurate, so replacing it with another one (for example, from R-CNN family) or training on larger and more diverst dataset could improve its performance. But excellent performance was not my goal in this pet-project.
 
 # Usage
-0. Download this repo in your working directory.
+0. Download this repo in your working directory. 
+1. Type in command line _pip install -r requirements.txt_ from calorie_counter directory. 
 1. Download pretrained weights for YOLO v3 from this [link](https://github.com/radekosmulski/yolo_open_images).
 2. Convert Darknet model to Keras using this [link](https://github.com/qqwweee/keras-yolo3).
 3. Put converted model with _.h5_ extention in calorie_counter/bot/model folder.
